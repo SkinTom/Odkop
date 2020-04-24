@@ -16,6 +16,6 @@ Project was created using:
 - Expression Language
 - Spring JDBC 
 - Bootstrap 3
-- CSS 5
+- CSS3
 - MySQL
 - Tomcat v9.0
