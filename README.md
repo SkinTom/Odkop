@@ -1,7 +1,7 @@
 # Odkop #
 Application created as part of the JavaEE course. Odkop is created on the example of the website wykop.pl.
 Users have the option of registering. Logged in users can add and rate discovery. 
-The highest rated discoveries are the highest in the ranking. Dane użytkowników, odkrycia i oddane głosy są przechowywane w bazie danych.
+The highest rated discoveries are the highest in the ranking. User data, discoveries and votes cast are stored in a database.
 
 ##  Screenshots ##
 ![](./screenshots/odkop.jpg)
