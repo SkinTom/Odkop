@@ -10,7 +10,7 @@ The highest rated discoveries are positioned on the highest place in the ranking
 ![](./screenshots/odkop2.jpg)
 
 ## Technologies ##
-Project is created with:
+Project was created using:
 - JavaEE
 - Java Standard Tag library
 - Expression Language
