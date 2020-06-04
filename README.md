@@ -12,10 +12,11 @@ The highest rated discoveries are positioned on the highest place in the ranking
 ## Technologies ##
 Project was created using:
 - JavaEE
-- Java Standard Tag library
+- JSTL
 - Expression Language
 - Spring JDBC 
-- Bootstrap 3
+- Bootstrap 
 - CSS3
+- HTML5
 - MySQL
-- Tomcat v9.0
+- Tomcat
